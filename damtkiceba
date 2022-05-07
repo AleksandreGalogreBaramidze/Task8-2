@@ -1,0 +1,4 @@
+yvelaze cud shemtxvevashi: n/2; 0-1/n+1; 1-n/n+1; ... n-1/n+1
+et = 1/n+1(0+1+2+3...+n) = n/2, n/2-O(n)
+yvelaze karg Shemtxvevashi: ar shemova ricxvi, chaiwereba mudmivad O(1)
+cud shemtxvevashi: shemova rogorc ricxvebi aseve spaceebi, O shi chaiwereba O(n)

@@ -1,0 +1,2 @@
+void whitespaces();
+void digits();
